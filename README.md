@@ -4,4 +4,4 @@ Nothing. I just caught up understanding the basics of Java (classes, objects, me
 ●	What did you struggle with in this project?
 I just for to understanding the basics of Java, through exercises creating simple programs. I defined the objects, variables with my own naming convention. Step by step creating each class, before moving on to the next. Facing the whole codes and trying to figure out where it started, what is means, at this stage, is impossible. I do hope that after completing the UDEMY Java course, I'll be able to. 
 ●	What would make your experience with this assessment better?
-Time. Not longer time for the assessment. Time to study, absorb, and understand everything.  
+Time. Not longer time for the assessment. Time to study, absorb, and understand everything.  This project makes me feel very helpless. 
